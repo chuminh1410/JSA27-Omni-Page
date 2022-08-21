@@ -1,4 +1,5 @@
 .navigation_bar {
+    font-family: 'Montserrat', sans-serif;
     z-index: 0;
     list-style: none;
     display: flex;
@@ -11,24 +12,28 @@
 }
 
 body {
-    background: rgba(0, 0, 0, 0.78) url(./hero.jpg) ;
+    background: rgba(0, 0, 0, 0.7) url(./hero.jpg) ;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
     background-blend-mode: darken;
 }
 .text{
-    font-size: 40px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 60px;
     color: white;
     position: absolute;
-    padding: 300px 0px 50px 200px;
+    line-height: 20px;
+    padding: 270px 0px 50px 200px;
 }
 .option{
+    font-family: 'Montserrat', sans-serif;
     justify-content: space-evenly;
     list-style: none;
     display: flex;
-    font-size: 10;
-    padding-top: 500px;
+    font-weight: bold;
+    font-size: 13px;
+    padding-top: 475px;
     margin-right: 1300px;
     padding-left: 200px ;
     
