@@ -24,9 +24,12 @@ body{
     line-height: 12px;
 }
 .parts{
+    font-weight: light;
     display: flex;
     list-style: none;
     justify-content: space-evenly;
+    font-family: 'Montserrat', sans-serif;
+    
     
 }
 .svg{
