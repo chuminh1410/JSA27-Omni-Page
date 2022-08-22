@@ -1,0 +1,31 @@
+.title{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-weight: lighter;
+    font-size: 40px;
+    margin-top: 30px;
+}
+.line{
+    width: 7%;
+    height:2px;
+    border-width:0;
+    color:orange;
+    background-color:orange;
+    margin-bottom: 45px;
+}
+body{
+    background-color: white;
+}
+.text{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-weight: lighter;
+    font-size: 22px;
+    line-height: 12px;
+}
+.parts{
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+    
+}
