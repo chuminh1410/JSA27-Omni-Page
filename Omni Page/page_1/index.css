@@ -24,15 +24,29 @@ body{
     line-height: 12px;
 }
 .parts{
-    font-weight: light;
+    font-weight: 700;
+    font-size: 20px;
     display: flex;
     list-style: none;
     justify-content: space-evenly;
+    text-align: left;
     font-family: 'Montserrat', sans-serif;
     
     
 }
 .svg{
-    padding: 50px 100px 30px 230px;
+    display: flex;
+    padding-top: 50px;
+    padding-left: 200px;
+    padding-right: 200px;
     justify-content: space-evenly;
+}
+.text1{
+    text-align:left;
+    padding-left: 200px;
+    padding-right: 250px;
+    font-weight: 500;
+    display: flex;
+    font-family: 'Montserrat', sans-serif;
+    
 }
