@@ -5,7 +5,7 @@
     font-size: 35px;
     margin-top: 40px;
 }
-.line{
+#line{
     width: 7%;
     height:2px;
     border-width:0;
@@ -14,8 +14,25 @@
     margin-bottom: 45px;
 }
 .text{
+    padding-right:400px;
+    margin-top: -40px;
+    padding-left: 745px;
     font-family: 'Montserrat', sans-serif;
-    list-style-type: none;
-    line-height: 60px;
+    list-style-type: none;  
+    line-height: 20px;
     font-weight: bold;
+}
+.star{
+    padding-top: 30px;
+    line-height: 100px;
+    padding-left: 680px;
+    width: 50px;
+    height: 50px;
+}
+.margin{
+    margin-bottom: 63px;
+}
+#phone{
+    padding-left: 420px;
+    margin-top: -270px;
 }
