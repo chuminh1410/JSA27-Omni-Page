@@ -22,4 +22,15 @@
     justify-content: left;
     font-weight: 100;
     font-size: 15px;
+    line-height: 30px;
+}
+body{
+    background-color:white;
+}
+.input{
+   display: flex;
+   flex-direction: column;
+   padding-left: 1100px;
+   padding-right: 40px;
+   margin-top: -220px;
 }
