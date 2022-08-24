@@ -1,0 +1,25 @@
+.title{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-weight: lighter;
+    font-size: 30px;
+    margin-left: 800px;
+    margin-top: 60px;
+}
+.line{
+    margin-left: 1100px;
+    width: 7%;
+    height:2px;
+    border-width:0;
+    color:orange;
+    background-color:orange;
+    margin-bottom: 45px;
+}
+.askletter{
+    padding-top: 70px;
+    font-family: 'Montserrat', sans-serif;
+    padding-left: 800px;
+    justify-content: left;
+    font-weight: 100;
+    font-size: 15px;
+}
