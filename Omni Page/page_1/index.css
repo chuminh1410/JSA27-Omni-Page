@@ -1,11 +1,11 @@
-.title{
+.Page1_title{
     font-family: 'Montserrat', sans-serif;
     text-align: center;
     font-weight: lighter;
     font-size: 40px;
     margin-top: 30px;
 }
-.line{
+.Page1_line{
     width: 7%;
     height:2px;
     border-width:0;
@@ -16,14 +16,14 @@
 body{
     background-color: white;
 }
-.text{
+.Page1_text{
     font-family: 'Montserrat', sans-serif;
     text-align: center;
     font-weight: lighter;
     font-size: 22px;
     line-height: 12px;
 }
-.parts{
+.Page1_parts{
     margin-right: 140px;
     font-weight: 700;
     font-size: 20px;
@@ -37,13 +37,13 @@ body{
     
     
 }
-.svg{
+.Page1_svg{
     display:flex;
     padding-top: 30px;
     padding-right: 210px;
     justify-content: space-evenly;
 }
-.text1{
+.Page1_text1{
     margin-top: -20px;
     line-height: 30px;
     margin-left: 215px;

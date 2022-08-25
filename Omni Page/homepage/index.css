@@ -1,4 +1,4 @@
-.navigation_bar {
+.homepage_navigation_bar {
     font-family: 'Montserrat', sans-serif;
     z-index: 0;
     list-style: none;
@@ -20,7 +20,7 @@ body {
     background-size: cover;
     background-blend-mode: darken;
 }
-.text{
+.homepage_text{
     font-family: 'Montserrat', sans-serif;
     font-size: 60px;
     color: white;
@@ -28,7 +28,7 @@ body {
     line-height: 20px;
     padding: 140px 0px 50px 200px;
 }
-.option{
+.homepage_option{
     font-family: 'Montserrat', sans-serif;
     justify-content: space-evenly;
     list-style: none;
@@ -40,7 +40,7 @@ body {
     padding-left: 180px ;
     
 }
-.shape{
+.homepage_shape{
     color: orange;
     z-index:1;
     line-height: 40px;
@@ -51,7 +51,7 @@ body {
     text-align: center;
 
 }
-.shape:hover{
+.homepage_shape:hover{
     background-color: orange;
     color: white;
 }

@@ -1,4 +1,4 @@
-.title{
+.page4_title{
     font-family: 'Montserrat', sans-serif;
     text-align: center;
     font-weight: lighter;
@@ -6,7 +6,7 @@
     margin-left: 800px;
     margin-top: 60px;
 }
-.line{
+.page4_line{
     margin-left: 1100px;
     width: 7%;
     height:2px;
@@ -15,7 +15,7 @@
     background-color:orange;
     margin-bottom: 45px;
 }
-.askletter{
+.page4_askletter{
     padding-top: 70px;
     font-family: 'Montserrat', sans-serif;
     padding-left: 800px;
@@ -27,10 +27,14 @@
 body{
     background-color:white;
 }
-.input{
+.page4_input{
    display: flex;
    flex-direction: column;
    padding-left: 1100px;
    padding-right: 40px;
    margin-top: -220px;
+}
+#page4_submit:hover{
+    background-color: orange;
+    color: white;
 }

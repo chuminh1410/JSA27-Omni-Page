@@ -1,11 +1,11 @@
-.title{
+.Page3_title{
     font-family: 'Montserrat', sans-serif;
     text-align: center;
     font-weight: lighter;
     font-size: 35px;
     margin-top: 40px;
 }
-#line{
+#Page3_line{
     width: 7%;
     height:2px;
     border-width:0;
@@ -13,7 +13,7 @@
     background-color:orange;
     margin-bottom: 45px;
 }
-.text{
+.Page3_text{
     padding-right:400px;
     margin-top: -40px;
     padding-left: 745px;
@@ -22,17 +22,17 @@
     line-height: 20px;
     font-weight: bold;
 }
-.star{
+.Page3_star{
     padding-top: 30px;
     line-height: 100px;
     padding-left: 680px;
     width: 50px;
     height: 50px;
 }
-.margin{
+.Page3_margin{
     margin-bottom: 63px;
 }
-#phone{
+#Page3_phone{
     padding-left: 420px;
     margin-top: -270px;
 }
