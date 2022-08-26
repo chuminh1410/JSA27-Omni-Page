@@ -1,6 +1,23 @@
-.img{
+.img_top {
+    display: flex;
     z-index: 3000;
     position: fixed;
-    width: 100%;
+}
 
+.img_bottom {
+    display: flex;
+    z-index: 3000;
+    margin-top: 225px;
+    position: fixed;
+}
+
+.img_page2 {
+    margin-left: -8px;
+    margin-top: -8px;
+    width: 390px;
+    height: 225px;
+}
+body{
+    background-color:black;
+    opacity: 65%;
 }
