@@ -12,12 +12,14 @@
     font-size: 20px;
     
 }
+#homepage_logo{
 
+
+}
 #homepage_background {
+    overflow: visible;
     width: 1504px;
     height: 846px;
-    display: flex;
-    background: rgba(0, 0, 0, 0.7) url(./homepage/hero.jpg) ;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
